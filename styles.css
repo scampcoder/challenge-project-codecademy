@@ -5,3 +5,7 @@ table, th, td {
 table {
   margin: auto;
 }
+
+th, td {
+  padding: 10px;
+}
